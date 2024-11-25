@@ -30,6 +30,6 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=anshika2417&show_icons=true&locale=en" alt="anshika2417"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshika2417&" alt="anshika2417" /></p>
+<p>&nbsp;<br><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshika2417&" alt="anshika2417" /></p>
 
 
