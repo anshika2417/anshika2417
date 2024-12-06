@@ -1,4 +1,4 @@
-<img src="https://github.com/anshika2417/anshika2417/blob/main/ANSHIKA%20KUMARI%20(1).png" alt="logo" width="100%" style="display: block; margin: auto;" />
+
 
 
 <h1 align="center">Hi 👋, I'm Anshika Kumari</h1>
